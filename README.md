@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Megha 👋</h1>
+<h1>Hi, I'm Megha 👋</h1>
 
-<p align="center">
+<p>
 AI/ML Engineer with hands-on experience shipping computer vision and NLP systems — from a 94%-accuracy defect detection pipeline at ISRO to a 98.3% F1-score NLP classifier deployed via FastAPI and Docker. Currently building production-grade LLM/RAG systems.
 </p>
 
-<p align="center">
+<p>
 🎓 MS Computer Science @ University of Texas at Arlington &nbsp;|&nbsp; 🔭 AI/ML Intern @ ISRO &nbsp;|&nbsp;
 </p>
 
@@ -32,7 +32,7 @@ AI/ML Engineer with hands-on experience shipping computer vision and NLP systems
 
 ### 📫 Let's connect
 
-[LinkedIn](#) &nbsp;|&nbsp; meghadalsaniya@gmail.com
+[LinkedIn](www.linkedin.com/in/megha-dalsania-b04b90267) &nbsp;|&nbsp; meghadalsaniya@gmail.com
 
 ---
 
