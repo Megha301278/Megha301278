@@ -32,7 +32,7 @@ AI/ML Engineer with hands-on experience shipping computer vision and NLP systems
 
 ### 📫 Let's connect
 
-[LinkedIn](www.linkedin.com/in/megha-dalsania-b04b90267) &nbsp;|&nbsp; meghadalsaniya@gmail.com
+ &nbsp;|&nbsp; meghadalsaniya@gmail.com
 
 ---
 
